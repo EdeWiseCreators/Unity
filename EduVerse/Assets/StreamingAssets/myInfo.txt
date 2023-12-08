@@ -1,0 +1,44 @@
+{
+    "myData": [
+        {
+            "meshObjName": [
+                "FrontHair_1_BL",
+                "BackHairLong_1_BL",
+                "SideHair_2_BL",
+                "R_Eye",
+                "L_Eye",
+                "R_Eyebrow",
+                "L_EyeBrow",
+                "R_EyeBall",
+                "L_EyeBall",
+                "Mouth",
+                "T_Shirt",
+                "Sleeve_R",
+                "Sleeve_L",
+                "Jacket_1",
+                "Pants",
+                "R_Shoe",
+                "L_Shoe"
+            ],
+            "meshIndex": [
+                6,
+                1,
+                0,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                2,
+                1,
+                4,
+                3,
+                3
+            ]
+        }
+    ]
+}
